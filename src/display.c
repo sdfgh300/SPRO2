@@ -1,3 +1,4 @@
+/*
 //Importing libraries
 #include <stdio.h>
 #include <avr/io.h>
@@ -61,3 +62,5 @@ void txDisplay(char *componentValue, float value, unsigned int type) //type 0=in
         printf("%s=%d%c%c%c",componentValue,(int)(value*10),0xFF,0xFF,0xFF);
     }
 }
+
+*/
